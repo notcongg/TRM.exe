@@ -1,0 +1,6 @@
+# ninja log v7
+3	989	8047585095166277	CMakeFiles/TRM.dir/source/main.cpp.obj	f8a80a9e0faa05d4
+23	2282	8047609704237190	CMakeFiles/TRM.dir/source/core/shell.cpp.obj	bae122659cba15af
+2283	2408	8047609726834464	TRM.exe	3eb0cd3f348d1b9a
+17	2834	8047642655693811	CMakeFiles/TRM.dir/source/core/shell.cpp.obj	bae122659cba15af
+2835	3035	8047642683869371	TRM.exe	3eb0cd3f348d1b9a
